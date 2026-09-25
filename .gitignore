@@ -1,0 +1,10 @@
+.env
+venv/ 
+.venv/ 
+__pycache__/ 
+*.pyc 
+.ipynb_checkpoints/ 
+chroma_db/ 
+Mohit_persnal_info.pdf  
+RAG_application_doc.rtf  
+Rag_architecture_API.png  
